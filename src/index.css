@@ -1,0 +1,6 @@
+ul[class*="ant-transfer-list-content-show-remove"]
+  li
+  span
+  span[class^="dropzone"] {
+  cursor: move;
+}
